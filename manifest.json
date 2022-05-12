@@ -1,0 +1,10 @@
+{
+  "version": "1",
+  "name": "Angular and Spark",
+  "page": "./www/index.html",
+  "permissions": ["geolocation","camera","message","auth"],
+  "validDomains": [],
+  "developer": {
+    "name": "David Martinez"
+  }
+}
